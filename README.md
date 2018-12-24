@@ -1,1 +1,1 @@
-# euler-java - code for euler.net in java 
+# euler-java - code for projecteuler.net in java 
